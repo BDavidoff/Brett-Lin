@@ -6,3 +6,4 @@ print "%s loves %s" % (people[0], people[1])
 
 food = ["fried chicken", "waffle"]
 
+print "this is some new stuff"
